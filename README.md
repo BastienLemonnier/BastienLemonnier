@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @BastienLemonnier
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, name's Bastien Lemonnier, i'm a web and game dev
 
-<!---
-BastienLemonnier/BastienLemonnier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- :hammer: mainly a Typescript dev
+- :fr:
+- :construction: TechLead
